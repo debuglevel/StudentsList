@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentTUI", "StudentTUI\StudentTUI.csproj", "{56945427-18C7-4265-BC39-9F6A0A31C463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentLib", "StudentLib\StudentLib.csproj", "{5F607203-600B-47A6-A1CF-082F6479F4FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LdapClient", "LdapClient\LdapClient.csproj", "{5695C8D8-E968-4A58-BCC0-637AE22C9DB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56945427-18C7-4265-BC39-9F6A0A31C463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56945427-18C7-4265-BC39-9F6A0A31C463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56945427-18C7-4265-BC39-9F6A0A31C463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56945427-18C7-4265-BC39-9F6A0A31C463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5695C8D8-E968-4A58-BCC0-637AE22C9DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5695C8D8-E968-4A58-BCC0-637AE22C9DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5695C8D8-E968-4A58-BCC0-637AE22C9DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5695C8D8-E968-4A58-BCC0-637AE22C9DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F607203-600B-47A6-A1CF-082F6479F4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F607203-600B-47A6-A1CF-082F6479F4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F607203-600B-47A6-A1CF-082F6479F4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F607203-600B-47A6-A1CF-082F6479F4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
